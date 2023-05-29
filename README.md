@@ -1,6 +1,9 @@
 # league-of-legends-basic-cleaning  
-this mod removes and replaces religious offensive text in game   
-example of some changes   
+this mod removes and replaces religious offensive text in game
+and removes 1 voice line from the announcer     
+example of some changes
+god like => legendray 
+example of some changes      
 tears of godds => tears of kitten  
 god like ! => carrying you     
 # How to use   
