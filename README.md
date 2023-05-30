@@ -14,5 +14,5 @@ god like ! => carrying you
 
 
 cslol-manager link    
-https://github.com/Crauzer/Obsidian/releases   
+https://github.com/LeagueToolkit/cslol-manager/releases  
 credits to GuiSa , Wenveo ,  Crauzer    
