@@ -48,7 +48,8 @@ This mod replaces specific in-game text strings and removes one announcer voice 
 
 ---
 ##  Json to stringtables
-You can use the python script i made to do so 
+You can use the python script i made to do so [Change the input_file to your file path or better just make your GUI as I am just too lazy to do it xd ]
+you can add this file to CDTB and fetch the hashes and use it with the latest hashes
 for stringtable to json you can use the export.py from CDTB
 
 
