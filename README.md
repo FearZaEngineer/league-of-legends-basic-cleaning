@@ -2,10 +2,10 @@
 this mod removes and replaces religious offensive text in game           
 and removes 1 voice line from the announcer              
 example of some changes       
-god like => legendray        
+___ like => legendray        
 example of some changes           
-tears of godds => tears of kitten          
-god like ! => carrying you           
+tears of ____ => mana package          
+___ like ! => king like           
 # How to use       
 1- run cslol-manager tool and choose the location of the game   
 2- drage and drop the fantom files into cslol-manger ( you will find them in the readyModsFolder )    
