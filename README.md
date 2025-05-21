@@ -48,8 +48,7 @@ This mod replaces specific in-game text strings and removes one announcer voice 
 
 ---
 ## ✨ Credits
-- **Mod Development**: GuiSa, Wenveo, Crauzer
-- **CSLOL Manager**: Moonshadow565 & LeagueToolkit
+- **Tools**: GuiSa, Wenveo, Crauzer Moonshadow565 & LeagueToolkit
 
 ---
 ### v1.0.0 (2024-05-22)
