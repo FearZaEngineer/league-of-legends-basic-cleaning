@@ -46,6 +46,11 @@ This mod replaces specific in-game text strings and removes one announcer voice 
 - **Community Dragon Tools**: Advanced data mining/editing
 
 
+---
+##  Json to stringtables
+You can use the python script i made to do so 
+for stringtable to json you can use the export.py from CDTB
+
 
 ---
 ### v1.0.0 (2024-05-22)
