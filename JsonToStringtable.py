@@ -14,7 +14,7 @@ def key_to_hash(key, bits=40, rsthash_version=1415):
 # Configuration
 input_file = "E:\\lol.stringtable.json"
 output_file = "E:\\output.stringtable"
-hash_bits = 40
+hash_bits = 32
 version = 3
 
 # Load JSON
