@@ -1,18 +1,58 @@
-# league-of-legends-basic-cleaning  
-this mod removes and replaces religious offensive text in game           
-and removes 1 voice line from the announcer              
-example of some changes       
-___ like => legendray        
-example of some changes           
-tears of ____ => mana package          
-___ like ! => king like           
-# How to use       
-1- run cslol-manager tool and choose the location of the game   
-2- drage and drop the fantom files into cslol-manger ( you will find them in the readyModsFolder )    
-3- check the mod in the cslol -manger and press run   
-4- u are set to go    
+# League of Legends Basic Cleaning Mod 
+
+**A text-replacement mod to remove offensive/religious content and adjust announcer voice lines.**
+
+---
+
+## 📖 Overview
+This mod replaces specific in-game text strings and removes one announcer voice line to create a more neutral gaming environment. Examples include:
+- `___ like` → `Legendary`
+- `Tears of ____` → `Mana Package`
+- Removes 1 announcer line (specified in changelog)
+
+---
+
+## 🛠️ Installation Guide
+
+### Prerequisites
+1. **League of Legends** (latest patch compatible)
+2. **CSLOL Manager** ([download here](https://github.com/LeagueToolkit/cslol-manager/releases))
+
+### Setup
+1. **Install CSLOL Manager**
+   - Download and extract to a **separate folder**
+   - Run `cslol-manager.exe`
+
+2. **Configure Game Path**
+   - Click "Browse" in CSLOL Manager
+   - Navigate to: `C:\Riot Games\League of Legends\Game\`
+   - Select `League of Legends.exe`
+
+3. **Install Mod**
+   - Drag-and-drop `.fantome` files from `readyModsFolder`
+   - Check mod's checkbox
+   - Click **RUN**
+
+4. **Verify**
+   - Launch League Client
+   - Check text changes in abilities/items
+   - Test announcer in Practice Tool
+
+---
+
+## 🔧 Tools
+- **BNK-GUI**: Edit sound banks/voice lines
+- **RION**: Work with Riot's encrypted files
+- **Community Dragon Tools**: Advanced data mining/editing
 
 
-cslol-manager link    
-https://github.com/LeagueToolkit/cslol-manager/releases  
+---
+## ✨ Credits
+- **Mod Development**: GuiSa, Wenveo, Crauzer
+- **CSLOL Manager**: Moonshadow565 & LeagueToolkit
+
+---
+### v1.0.0 (2024-05-22)
+- Compatible with LoL 25.10
+
 credits to GuiSa , Wenveo ,  Crauzer    
