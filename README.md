@@ -42,7 +42,7 @@ This mod replaces specific in-game text strings and removes one announcer voice 
 
 ## 🔧 Tools
 - **BNK-GUI**: Edit sound banks/voice lines
-- **RION**: Work with Riot's encrypted files
+- **RION**: Work with Riot's encrypted files (no longer a thing sadly)
 - **Community Dragon Tools**: Advanced data mining/editing
 
 
