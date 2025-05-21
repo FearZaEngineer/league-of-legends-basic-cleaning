@@ -46,12 +46,11 @@ This mod replaces specific in-game text strings and removes one announcer voice 
 - **Community Dragon Tools**: Advanced data mining/editing
 
 
----
-## ✨ Credits
-- **Tools**: GuiSa, Wenveo, Crauzer Moonshadow565 & LeagueToolkit
 
 ---
 ### v1.0.0 (2024-05-22)
 - Compatible with LoL 25.10
+---
+## ✨ Credits
+- **Tools**: GuiSa, Wenveo, Crauzer Moonshadow565 & LeagueToolkit
 
-credits to GuiSa , Wenveo ,  Crauzer    
