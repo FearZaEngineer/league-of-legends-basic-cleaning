@@ -16,7 +16,7 @@ This mod replaces specific in-game text strings and removes one announcer voice 
 
 ### Prerequisites
 1. **League of Legends** (latest patch compatible)
-2. **CSLOL Manager** ([download here](https://github.com/LeagueToolkit/cslol-manager/releases/tag/2024-10-27-401067d-prerelease)) ( you can find the latest version on cslol repo but some time they have prereleases)
+2. **CSLOL Manager** ([download here](https://github.com/LeagueToolkit/cslol-manager/releases)) ( you can find the latest version on cslol repo but some time they have prereleases)
 
 ### Setup
 1. **Install CSLOL Manager**
